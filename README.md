@@ -1,2 +1,9 @@
 # Divvy-Bikes-Analysis
-This repository contains an analysis of the Divvy bike rental system data in Chicago. The models and analyses focus on understanding bike usage patterns and user behavior.
+
+
+### Introduction
+This project analyzes the Divvy bike rental system data in Chicago. It aims to explore bike usage patterns and user behavior based on various metrics.
+
+### Data Overview
+The dataset includes information about bike trips, such as start and end times, originating and destination stations, and user demographics.
+
